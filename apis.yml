@@ -1,7 +1,23 @@
 aid: replenysh
 name: Replenysh
-description: Replenysh is a company surfaced as a portfolio company of kindred-ventures and added to the
-  API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: Replenysh is an enterprise circularity platform that runs circular supply chains for
+  brands and recovery facilities. It routes, recovers, verifies, and optimizes material recovery flows
+  across a network of 5,000+ partners, giving enterprises a single control layer for reverse logistics
+  with audit-ready chain-of-custody, pricing, settlement, and compliance documentation. Customers
+  include PepsiCo, Disney, Marriott, and Live Nation. Backed by Kindred Ventures and M13. Surfaced as a
+  portfolio-lead stub and enriched via the API Evangelist pipeline.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://replenysh.com/og.png
 url: https://raw.githubusercontent.com/api-evangelist/replenysh/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,9 +27,15 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
+- Circular Economy
+- Reverse Logistics
+- Recycling
+- Supply Chain
+- Sustainability
+- Materials
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,3 +45,24 @@ maintainers:
 common:
 - type: Website
   url: https://replenysh.com/
+- type: LLMsTxt
+  url: llms/replenysh-llms.txt
+- type: Blog
+  url: https://replenysh.com/blog
+- type: HelpCenter
+  url: https://help.replenysh.com/en/
+- type: GitHubOrganization
+  url: https://github.com/replenysh
+- type: Login
+  url: https://app.replenysh.com/
+- type: PrivacyPolicy
+  url: https://replenysh.com/privacy
+- type: TermsOfService
+  url: https://replenysh.com/terms
+- type: DomainSecurity
+  url: security/replenysh-domain-security.yml
+x-enrichment:
+  date: '2026-07-20'
+  status: enriched
+  artifacts_added: 2
+  pass: local-v1

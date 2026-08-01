@@ -1,0 +1,18 @@
+# Replenysh
+
+> Replenysh runs your circular supply chain. It routes, recovers, verifies, and optimizes material flows across a 5,000+ partner recovery network, giving enterprises one control layer for reverse logistics.
+
+## Platform
+- [Platform overview](https://replenysh.com/): How Replenysh runs circular material flows end to end — routing, verification, chain of custody, and settlement.
+- [Recovery network](https://replenysh.com/network): For recovery facilities and haulers. Get matched to loads that fit your facility and get paid faster across 5,000+ partners.
+- [Contact](https://replenysh.com/contact): Book a demo or join the recovery network.
+
+## Blog
+- [Building the Material Supply Chain of Tomorrow: Replenysh Raises Series A](https://replenysh.com/blog/series-a): Replenysh has raised its Series A led by M13 to scale the Material Recovery Grid, a data-driven platform turning waste into a reliable circular supply chain.
+- [Recycling is to Diversion as Circularity is to Destination](https://replenysh.com/blog/diversion-vs-destination): Diversion-based recycling only measures what avoids landfill, not where materials end up. We need a new goal that prioritizes destination and true circularity.
+- [An Opportunity to Evolve](https://replenysh.com/blog/an-opportunity-to-evolve): Humans are the only species that broke nature's law that one's waste is another's food. A primer on the tools and infrastructure to evolve past it.
+- [The PET Imbalance](https://replenysh.com/blog/the-pet-imbalance): During Covid-19, virgin PET prices crashed while recycled PET stayed high. Why brands cancel recycled orders, and why the fix is building more recycling mills.
+
+## Legal
+- [Privacy Policy](https://replenysh.com/privacy)
+- [Terms of Use](https://replenysh.com/terms)
