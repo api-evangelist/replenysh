@@ -6,6 +6,17 @@ description: Replenysh is an enterprise circularity platform that runs circular 
   with audit-ready chain-of-custody, pricing, settlement, and compliance documentation. Customers
   include PepsiCo, Disney, Marriott, and Live Nation. Backed by Kindred Ventures and M13. Surfaced as a
   portfolio-lead stub and enriched via the API Evangelist pipeline.
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
